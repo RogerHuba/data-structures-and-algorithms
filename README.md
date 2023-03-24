@@ -21,3 +21,13 @@ To run your tests
 ### 401 Data Structures, Code Challenges
 
 - Please follow the instructions specific to your 401 language, which can be found in the directory below, matching your course.
+
+#### Lists (Arrays)
+- Code Challenge 1: Reverse Array
+  - ![](python/docs/reverse_array/reverse_array.png)
+- Code Challenge 2: Array Insert Shift
+- Code Challenge 3: Array Binary Search
+
+#### Linked Lists
+#### Stacks and Queues
+#### Binary Trees & Binary Search Trees
